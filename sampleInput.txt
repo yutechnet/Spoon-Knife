@@ -1,0 +1,11 @@
+
+this is the first line
+i entered using vim
+B
+B
+
+B
+B
+A
+A
+want to save it
